@@ -1,1 +1,3 @@
 kaggle
+numpy
+pytest
